@@ -1,1 +1,4 @@
-# lab2
+Christian Brantner
+Diamond Dinh
+Nevan Nguyen
+Kevin Viers
