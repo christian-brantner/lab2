@@ -6,7 +6,7 @@ using namespace std;
 
 void DisplayNames(string file) {
 	ifstream infile;
-	infile.open("file");
+	infile.open(file);
 	string line;
 	
 	if (infile.is_open()) {
